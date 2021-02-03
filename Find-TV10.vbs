@@ -1,3 +1,4 @@
+'To receive Teamviewer ID # via domain environment without user's knowledge.
 ' Declare the constants
 Dim oFSO
 Const HKLM = &H80000002 ' HKEY_LOCAL_MACHINE
@@ -12,7 +13,7 @@ Set objDictionary = CreateObject("Scripting.Dictionary")
 Set objDictionary2 = CreateObject("Scripting.Dictionary")
 
 ' Set string variables
-strDomain = "domain.local" ' Your Domain
+strDomain = "domain.local" ' Your Domain name
 strPCsFile = "DomainPCs.txt" 
 strPath = "C:\logs\" ' Create this folder
 strWorkstationID = "C:\logs\WorkstationID.txt"
