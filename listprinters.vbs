@@ -1,4 +1,4 @@
-StrComputer = "DELL-FBB3G12"
+StrComputer = "XXXXXXXX" 'Workstation name
 
 Set objWMIService = GetObject("winmgmts:\\" & strComputer & "\root\cimv2")
 
