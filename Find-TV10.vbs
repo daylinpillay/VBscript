@@ -12,7 +12,7 @@ Set objDictionary = CreateObject("Scripting.Dictionary")
 Set objDictionary2 = CreateObject("Scripting.Dictionary")
 
 ' Set string variables
-strDomain = "mistras.local" ' Your Domain
+strDomain = "domain.local" ' Your Domain
 strPCsFile = "DomainPCs.txt" 
 strPath = "C:\logs\" ' Create this folder
 strWorkstationID = "C:\logs\WorkstationID.txt"
