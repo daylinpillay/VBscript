@@ -1,1 +1,1 @@
-# Script Tools for Windows Domain environment
+# Script Tools for Windows environment
