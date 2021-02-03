@@ -1,1 +1,1 @@
-# Script Tools for Windows environment
+# VBScript Tools for Windows environment
